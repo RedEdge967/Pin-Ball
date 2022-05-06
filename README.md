@@ -2,6 +2,10 @@
 - Pin-Ball is a clone of classic pinbll game in HTML, CSS and JS,
 - You can see the live demo [here](https://rededge.is-a.dev/Pin-Ball).
 
+<p align="center">
+<img src="logo.png" height="30%" width="30%">
+</p>
+
 ### Link : https://rededge.is-a.dev/Pin-Ball
 
 ## Running `Pinball`
@@ -16,3 +20,8 @@
 - Extract it
 - Run `index.html` file in your browser
 
+## Can I contribute?
+- Of course you can. open an issue, point out errors and what not? wanna fix something yourself. open a PR and I really appreciate it.
+
+## Support
+- You can support this project by **giving a star** to this project.
