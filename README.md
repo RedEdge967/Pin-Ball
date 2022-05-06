@@ -9,3 +9,10 @@
 - Open a browser window
 - type https://rededge.is-a.dev/Pin-Ball in the searchbar
 - hit `Enter`
+
+### Running `offline`
+- Download the latest release from the [releses](https://github.com/RedEdge967/Pin-Ball/releases).
+- It will be a `.zip` file
+- Extract it
+- Run `index.html` file in your browser
+
