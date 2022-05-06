@@ -20,6 +20,13 @@
 - Extract it
 - Run `index.html` file in your browser
 
+### Gameplay
+
+
+https://user-images.githubusercontent.com/91379432/167096525-0b3bd7a8-e1ea-4ced-ba5d-d051855cbb5e.mp4
+
+
+
 ## Can I contribute?
 - Of course you can. open an issue, point out errors and what not? wanna fix something yourself. open a PR and I really appreciate it.
 
